@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalvalucroClient", "SalvalucroClient\SalvalucroClient.csproj", "{9D5CBCFD-1D39-4BCC-93C6-2042E71B1768}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalvalucroClient.Test", "SalvalucroClient.Test\SalvalucroClient.Test.csproj", "{05BB320C-3240-466A-9E49-FE61F2F9E823}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9D5CBCFD-1D39-4BCC-93C6-2042E71B1768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D5CBCFD-1D39-4BCC-93C6-2042E71B1768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D5CBCFD-1D39-4BCC-93C6-2042E71B1768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BB320C-3240-466A-9E49-FE61F2F9E823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BB320C-3240-466A-9E49-FE61F2F9E823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BB320C-3240-466A-9E49-FE61F2F9E823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BB320C-3240-466A-9E49-FE61F2F9E823}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalvalucroClient.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f69edd284e8fd7569f16ffd78d235e51472e268")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalvalucroClient.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalvalucroClient.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
